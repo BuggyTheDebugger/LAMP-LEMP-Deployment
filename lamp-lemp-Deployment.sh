@@ -2,7 +2,7 @@
 
 # ============================================
 # LAMP/LEMP Stack Deployment Script
-# Author: [BuggyTheDebugger]
+# Author: [CodeD-Roger]
 # Version: 1.1
 # ============================================
 
