@@ -9,22 +9,28 @@ This is a comprehensive Bash script designed to automate the deployment, configu
 
 - **LAMP/LEMP Stack Installation**:
   - Apache, Nginx, PHP, MySQL/MariaDB installation.
+
 - **Web Server Configuration**:
   - Create virtual hosts for Apache or Nginx.
   - Install SSL certificates using Certbot.
   - Test and reload configurations.
+
 - **Database Server Management**:
   - Set root passwords.
   - Create new databases and users.
   - Secure MySQL/MariaDB.
+
 - **Web Application Deployment**:
   - Deploy web files with permission configuration.
+
 - **Optimization and Security**:
   - Optimize PHP settings.
   - Enable HTTP security headers.
+
 - **Maintenance and Backup**:
   - Backup databases and web files.
   - Schedule automatic backups using CRON.
+
 - **Monitoring and Supervision**:
   - Health checks for services.
   - Generate supervision reports.
@@ -69,9 +75,6 @@ This is a comprehensive Bash script designed to automate the deployment, configu
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork this repository, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
