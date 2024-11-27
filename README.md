@@ -47,7 +47,7 @@ This is a comprehensive Bash script designed to automate the deployment, configu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BuggyTheDebugger/LAMP-LEMP-Deployment.git
+   git clone https://github.com/CodeD-Roger/LAMP-LEMP-Deployment.git
    cd LAMP-LEMP-Deployment
    ```
 
@@ -78,4 +78,4 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ---
 
-**Author**: BuggyTheDebugger
+**Author**: CodeD-Roger
